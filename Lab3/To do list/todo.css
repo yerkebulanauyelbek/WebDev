@@ -1,0 +1,47 @@
+.head{
+    position: absolute;
+    width: 100%;
+    top:0px;
+    left:0px;
+    background-color:#000000;
+}
+.headText{
+    position: relative;
+    margin-top:15px;
+    margin-left:60px;
+    color:#ffffff;
+}
+.title{
+    position: absolute;
+    top: 125px;
+    left: 870px;
+}
+.in{
+    position: absolute;
+    top: 250px;
+    left: 690px;
+    border:0.5px solid gray;
+    border-radius:5px;
+    height:30px;
+    width:500px;
+}
+.addB1{
+    width: 60px;
+    height: 33px;
+    position: absolute;
+    top: 250px;
+    left: 1200px;
+    border:none;
+    background-color: #1b72e8;
+    color:#ffffff;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.headText{
+    font-size: 25px;
+}
+.mainTitle{
+    font-size:50px;
+}
